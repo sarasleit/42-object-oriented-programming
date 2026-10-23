@@ -1,20 +1,21 @@
 # 42-object-oriented-programming
+![42 School](https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white)
 My Python projects from the Object Oriented Programming module at 42.
 
 
-# Python Basics — 42
+# 💻 Python Basics — 42
 
-## Overview
+## 📌 Overview
 
 This repository contains my projects from the Object-Oriented Programming module at 42.
 
 The module focuses on deepening Python knowledge and exploring modern software design through practical projects involving application development, data, and interactive programming.
 
-## Projects
+## 📂 Projects
 
 This repository will contain the projects assigned as part of the module. Each project will have its own directory with the relevant source code and a dedicated README describing the project, its objectives, and implementation details.
 
-### Project Structure
+### 🗂️ Project Structure
 
 ```text
 42-object-oriented-programming/
@@ -24,6 +25,6 @@ This repository will contain the projects assigned as part of the module. Each p
 
 *Project directories will be updated as I progress through the module.*
 
-**Platform:** 42  
-**Programming Language:** Python
+**🎓Platform:** 42  
+**🐍Programming Language:** Python
 
