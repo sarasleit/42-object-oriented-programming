@@ -40,7 +40,6 @@ def main() -> None:
     try:
         file_object_one = open(passed_file, "r")
         content: str = file_object_one.read()
-        file_object_one.close()
 
         print("=== File Content ===\n")
         print(f"{content}\n")
