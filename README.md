@@ -21,9 +21,9 @@ This repository will contain the projects assigned as part of the module. Each p
 
 ```text
 42-object-oriented-programming/
-├── README.md
+├──  README.md
 ├──  Data-Archivist
-
+├──  The_codex
 ```
 
 *Project directories will be updated as I progress through the module.*
